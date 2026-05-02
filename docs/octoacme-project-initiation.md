@@ -29,12 +29,16 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Quick risks & dependencies:
 - Proposed team / roles:
 
+## Role Responsibility Map
+At project initiation, create a project-specific RACI chart using the [Role Responsibility Map Template](octoacme-role-responsibility-map-template.md). This ensures every lifecycle phase has clear ownership before planning begins. Copy the template into your project's `docs/` folder, fill in the RACI assignments with the team, and review it during the kickoff meeting.
+
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Complete Role Responsibility Map (RACI) for this project
 
 ## Decision Gate
 Move to planning when:
